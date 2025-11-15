@@ -73,3 +73,6 @@ cd frontend
 npm install
 npm start
 ```
+
+## Disclaimer:
+The credits goes to @navinreddy20 from Telusko for teaching this course for free on youtube.
