@@ -74,5 +74,8 @@ npm install
 npm start
 ```
 
+### Sample snap of frontend
+![The sample snap of frontend](https://iamharisai.in/wp-content/uploads/2025/11/Screenshot-2025-11-15-at-7.43.30-PM.png)
+
 ## Disclaimer:
 The credits goes to @navinreddy20 from Telusko for teaching this course for free on youtube.
